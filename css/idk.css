@@ -10,7 +10,7 @@ header img{
     height: 300px;
     object-fit: cover;
     border-radius: 160px;
-    border: 10px solid purple;
+    border: 10px solid goldenrod;
     margin-top: 20px;
     margin-bottom: 20px;
     box-shadow: 0 3px 10px 3px #888;
@@ -29,7 +29,7 @@ h1, h2{
 
 body {
     margin: 0;
-    background-color: darkgrey;
+    background-color: brown;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     line-height: 30px;
@@ -46,11 +46,11 @@ main img{
 }
 
 h2{
-    color:tomato;
+    color:goldenrod;
 }
 
 a{
-    color:tomato;
+    color:goldenrod;
     text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ a:hover {
 }
 
 footer{
-    background-color: #d14635;
+    background-color:#d14635;
     text-align: center;
     color:whitesmoke;
     padding: 50px;
